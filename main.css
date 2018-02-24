@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.login-section {
+  width: 400px;
+}
+
+.content {
+  padding: 70px 50px;
+  min-height: 1000px;
+}
+
+.strange-repeating {
+  border: dotted 1px black;
+}
